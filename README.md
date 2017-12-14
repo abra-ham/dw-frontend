@@ -1,5 +1,5 @@
 # dw-frontend
-Proyecto creado por Luis Jiménez y Abraham López para la clase de Minería de Datos.
+Proyecto creado por Luis Jiménez y Abraham López para la clase de Data Warehouses.
 
 Este proyecto fué creado con el Vue.js CLI.
 
